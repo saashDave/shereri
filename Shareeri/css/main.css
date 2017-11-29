@@ -2,6 +2,10 @@ body {
     /* padding-top: 40px; */
     padding-bottom: 40px;
     background-color: #eee;
+    background-image:url("../images/halftone-yellow.png");
+
+    /* I Used this url to fing bg.. add the ones you like */
+    /* https://www.toptal.com/designers/subtlepatterns/ */
   }
   
   .form-signin {
