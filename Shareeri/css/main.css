@@ -1,8 +1,9 @@
 body {
     /* padding-top: 40px; */
     padding-bottom: 40px;
-    background-color: #eee;
-    background-image:url("../images/halftone-yellow.png");
+    background-color: rgb(158, 158, 158);
+    background-image:url("../images/doodles2.png");
+
 
     /* I Used this url to fing bg.. add the ones you like */
     /* https://www.toptal.com/designers/subtlepatterns/ */
@@ -131,4 +132,15 @@ body {
   .skip,
   .skip:hover {
       color: white;
+  }
+
+  /* Success Icon */
+  .icon{
+    font-size: 50px;
+    color: green;
+  }
+
+  .panel.panel-primary
+  {
+    min-height: 250px;
   }
